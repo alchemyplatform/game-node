@@ -21,11 +21,11 @@
   },
   "dependencies": {
     "@virtuals-protocol/game": "^0.1.4",
-    "axios": "^1.6.5"
+    "axios": "^1.9.0"
   },
   "devDependencies": {
     "typescript": "^5.3.3",
-    "tsup": "^8.0.1",
+    "tsup": "^8.4.0",
     "ts-node": "^10.9.2",
     "nodemon": "^3.0.2"
   },
