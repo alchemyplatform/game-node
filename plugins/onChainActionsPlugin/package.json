@@ -22,7 +22,7 @@
     "@goat-sdk/wallet-evm": "0.2.6",
     "@goat-sdk/wallet-viem": "0.2.6",
     "@virtuals-protocol/game": "^0.1.4",
-    "ajv": "8.17.1",
+    "ajv": "8.18.0",
     "tsup": "^8.3.5",
     "zod": "3.23.8",
     "zod-to-json-schema": "^3.24.1"
