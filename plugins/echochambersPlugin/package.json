@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@virtuals-protocol/game": "^0.1.4",
-    "axios": "^1.6.5"
+    "axios": "1.18.0"
   },
   "devDependencies": {
     "typescript": "^5.3.3",
